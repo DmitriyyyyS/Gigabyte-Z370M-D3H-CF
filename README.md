@@ -1,4 +1,4 @@
-#Gigabyte-Z370M-D3H-CF
+Gigabyte-Z370M-D3H-CF
 I3 8100 on
 Gigabyte-Z370M-D3H-CF on
 UHD 630 on
